@@ -1,5 +1,10 @@
- <h1 align="center">Hi 👋, I'm Brent Mueller</h1>
+
+<h1 align="center">Hi 👋, I'm Brent Mueller</h1>
 <h3 align="center">Software Engineer</h3>
+
+- 📫 How to reach me **brentmueller32@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1BrizbHJcaws2VfXPs2bQl3KV4f_BJE3T-mhf9l_SKTM/edit](https://docs.google.com/document/d/1BrizbHJcaws2VfXPs2bQl3KV4f_BJE3T-mhf9l_SKTM/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
